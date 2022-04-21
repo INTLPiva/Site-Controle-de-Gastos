@@ -1,0 +1,19 @@
+.ganhos {
+    height: 100px;
+    width: 100%;
+
+    background: #735BF2;
+    color: #FFF;
+
+    border-radius: 10px;
+    margin-bottom: 20px;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 24px;
+}
+
+.ganhos strong {
+    font-size: 18px;
+}

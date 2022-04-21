@@ -1,0 +1,19 @@
+.gastos {
+    height: 100px;
+    width: 100%;
+
+    background: #BC0040;
+    color: #FFF;
+
+    border-radius: 10px;
+    margin-bottom: 20px;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 24px;
+}
+
+.gastos strong {
+    font-size: 18px;
+}
